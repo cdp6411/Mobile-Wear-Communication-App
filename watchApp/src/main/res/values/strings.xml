@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WatchApp</string>
+    <string name="start">Start</string>
+    <string name="go_for_walk">Go for Walk</string>
+    <string name="_3_00">3:00</string>
+    <string name="pause">Pause</string>
+    <string name="go_for_walk_nfinished">Go for Walk\nFinished</string>
+    <string name="next">Next</string>
+</resources>
